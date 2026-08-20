@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">JML89 Capital</title>
+  <desc id="desc">Quantitative research, market intelligence, and systems engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f18"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2a5f"/>
+      <stop offset="1" stop-color="#00ffcc"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#bg)" stroke="#263244" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#grid)"/>
+  <rect x="64" y="55" width="118" height="118" rx="28" fill="#101826" stroke="#334155" stroke-width="2"/>
+  <circle cx="123" cy="114" r="37" fill="none" stroke="url(#accent)" stroke-width="3" filter="url(#glow)"/>
+  <text x="123" y="126" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="700">89σ</text>
+
+  <text x="216" y="83" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">QUANT RESEARCH · SYSTEMS ENGINEERING</text>
+  <text x="216" y="135" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="750">JML89 Capital</text>
+  <text x="216" y="173" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="21">Building explainable market-intelligence systems.</text>
+
+  <rect x="64" y="217" width="682" height="2" rx="1" fill="url(#accent)"/>
+  <text x="64" y="263" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="20">Macro · Rates · Positioning · Options · Timing</text>
+  <text x="64" y="297" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Independent evidence, fused into clear asset-level signals.</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">
+    <rect x="64" y="337" width="94" height="36" rx="18" fill="#172033" stroke="#344156"/><text x="111" y="360" text-anchor="middle" fill="#e2e8f0">PYTHON</text>
+    <rect x="170" y="337" width="96" height="36" rx="18" fill="#172033" stroke="#344156"/><text x="218" y="360" text-anchor="middle" fill="#e2e8f0">FASTAPI</text>
+    <rect x="278" y="337" width="91" height="36" rx="18" fill="#172033" stroke="#344156"/><text x="323" y="360" text-anchor="middle" fill="#e2e8f0">SVELTE</text>
+    <rect x="381" y="337" width="121" height="36" rx="18" fill="#172033" stroke="#344156"/><text x="441" y="360" text-anchor="middle" fill="#e2e8f0">TYPESCRIPT</text>
+  </g>
+
+  <g transform="translate(817 62)">
+    <rect width="319" height="296" rx="22" fill="#0d1422" stroke="#29364a" stroke-width="2"/>
+    <text x="28" y="44" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">SYSTEM MAP</text>
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="16">
+      <circle cx="34" cy="82" r="5" fill="#ff2a5f"/><text x="53" y="88" fill="#e2e8f0">Macro engine</text>
+      <circle cx="34" cy="122" r="5" fill="#ff6b8d"/><text x="53" y="128" fill="#e2e8f0">Positioning engine</text>
+      <circle cx="34" cy="162" r="5" fill="#ffaa00"/><text x="53" y="168" fill="#e2e8f0">Rate engine</text>
+      <circle cx="34" cy="202" r="5" fill="#00ffcc"/><text x="53" y="208" fill="#e2e8f0">Timing engine</text>
+    </g>
+    <path d="M34 220 V244 H121" fill="none" stroke="#475569" stroke-width="2"/>
+    <path d="M34 180 V244" fill="none" stroke="#475569" stroke-width="2"/>
+    <path d="M34 140 V244" fill="none" stroke="#475569" stroke-width="2"/>
+    <path d="M34 100 V244" fill="none" stroke="#475569" stroke-width="2"/>
+    <rect x="121" y="226" width="165" height="38" rx="19" fill="#132338" stroke="#00ffcc" stroke-opacity="0.55"/>
+    <text x="203" y="250" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">SIGNAL FUSION</text>
+  </g>
+</svg>
