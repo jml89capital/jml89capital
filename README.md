@@ -1,1 +1,1 @@
-[![JML.89 — software, data, systems, and private project activity](https://raw.githubusercontent.com/jml89capital/jml89capital/b1be54a35fef07ee2a374497e053ba7bd88ef1ea/assets/jml89-profile-card.svg)](https://github.com/jml89capital/market-intelligence-dashboard)
+[![JML.89 — software, data, systems, and private project activity](https://raw.githubusercontent.com/jml89capital/jml89capital/351c3c071acd267a04c5ee708e8ffd9cbd7452dd/assets/jml89-profile-card.svg)](https://github.com/jml89capital/market-intelligence-dashboard)
