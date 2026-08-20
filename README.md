@@ -1,32 +1,39 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-card-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-card-light.svg">
-  <img alt="JML89 Capital — quantitative research and market intelligence" src="./assets/profile-card-dark.svg" width="100%">
-</picture>
+<h1 align="center">JML89</h1>
 
-## Building market intelligence systems
+<p align="center">
+  Building useful software across data, automation, AI, and the web.
+</p>
 
-I build research infrastructure that turns macro data, rates, institutional
-positioning, options activity, and price behaviour into explainable market
-signals.
+<p align="center">
+  <strong>Software · Data · Automation · AI · Product</strong>
+</p>
 
-My main project is **89σ Capital**, a private multi-asset research platform with
-Python modelling, a FastAPI service, and a real-time Svelte interface. The source
-and trading parameters remain private; the architecture and product work are
-documented in the public
-[market-intelligence-dashboard](https://github.com/jml89capital/market-intelligence-dashboard)
-case study.
+## About
 
-### Current focus
+I'm an independent builder who enjoys turning complex ideas into reliable, well-designed products. I work across the full stack—from research and backend systems to APIs, data pipelines, and interactive interfaces.
 
-- Explainable signal fusion across independent market-data engines
-- Robust out-of-sample testing and strategy validation
-- Clear interfaces for complex quantitative research
-- Reliable data pipelines, caching, and operational monitoring
+My projects span full-stack development, automation, applied machine learning, data engineering, and quantitative research.
 
-### Core stack
+## What I build
 
-`Python` · `FastAPI` · `Svelte` · `TypeScript` · `pandas` ·
-`scikit-learn` · `statsmodels` · `GitHub Actions`
+- Data-rich web applications with clear, responsive interfaces
+- Automation tools that remove repetitive work
+- APIs and backend systems designed for reliability
+- Experiments that turn new ideas into working products
 
-> Building in private, documenting in public.
+## Selected work
+
+### [Market Intelligence Dashboard](https://github.com/jml89capital/market-intelligence-dashboard)
+
+A private multi-engine research platform and one of my deeper systems projects. It combines data ingestion, modelling, signal fusion, caching, APIs, and a real-time interface. The public repository documents the engineering and product decisions without exposing private source code or credentials.
+
+`Python` · `FastAPI` · `Svelte` · `TypeScript` · `pandas` · `scikit-learn`
+
+## Currently exploring
+
+- AI-assisted tools and agentic workflows
+- Small, focused web products with strong UX
+- Practical automation for everyday workflows
+- Better ways to make complex data understandable
+
+> Building in private. Sharing the useful parts in public.
