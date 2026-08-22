@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="630" viewBox="0 0 1000 630" role="img" aria-labelledby="title desc">
-  <title id="title">JML.89 GitHub profile card</title>
+  <title id="title">JML89 GitHub profile card</title>
   <desc id="desc">Terminal-style developer card with pixel-art blue eye, contact details, and private Market Intelligence Dashboard activity proof showing 186 commits across 42 active development days.</desc>
   <defs>
     <linearGradient id="panelGlow" x1="0" y1="0" x2="1" y2="1">
@@ -41,13 +41,13 @@
   </g>
   <rect x="28" y="28" width="328" height="430" rx="14" fill="none" stroke="#30363d"/>
 
-  <text x="30" y="503" class="mono section" font-size="30">JML.89</text>
+  <text x="30" y="503" class="mono section" font-size="30">JML89</text>
   <text x="31" y="529" class="mono muted" font-size="13">SOFTWARE · DATA · SYSTEMS</text>
   <circle cx="35" cy="558" r="4" fill="#39d353"/>
   <text x="48" y="563" class="mono tiny" fill="#8b949e">PRIVATE SOURCE / PUBLIC CASE STUDY</text>
 
   <g class="mono body">
-    <text x="406" y="48" class="section">jml89capital@github</text>
+    <text x="406" y="48" class="section">JML89DEV@github</text>
     <text x="602" y="48" class="muted">────────────────────────────</text>
 
     <text x="406" y="82" class="muted">. </text><text x="424" y="82" class="key">Role:</text>
